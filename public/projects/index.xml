@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Annsh Agrawaal</title>
+    <link>https://annshagrawaal.info/projects/</link>
+    <description>Recent content on Annsh Agrawaal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face:</copyright>
+    <lastBuildDate>Fri, 09 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://annshagrawaal.info/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quotivation</title>
+      <link>https://annshagrawaal.info/projects/fourth-post/</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://annshagrawaal.info/projects/fourth-post/</guid>
+      <description>Quotivation - A static web app hosted on Microsft Azure using Azure App Service and GitHub Actions.</description>
+    </item>
+    
+    <item>
+      <title>UIC COVID Database</title>
+      <link>https://annshagrawaal.info/projects/third-post/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://annshagrawaal.info/projects/third-post/</guid>
+      <description>HTML, CSS, JavaScript, Python, MySQL ####Developed and maintained COVID database (classes, travel history, vaccination record) of 100+ UIC students in dorms, achieving 89% accountability during COVID-19.</description>
+    </item>
+    
+    <item>
+      <title>Music Center</title>
+      <link>https://annshagrawaal.info/projects/second-post/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://annshagrawaal.info/projects/second-post/</guid>
+      <description>HTML, CSS, JavaScript, Shazam RESTful API</description>
+    </item>
+    
+    <item>
+      <title>Smart Aquarium</title>
+      <link>https://annshagrawaal.info/projects/first-post/</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://annshagrawaal.info/projects/first-post/</guid>
+      <description>Smart AquariumThe goal of this project is to make aquarium monitoring and maintenance easier.</description>
+    </item>
+    
+  </channel>
+</rss>
